@@ -1,5 +1,5 @@
 <h2 align="center">Hello there 👋 It's Mehedi Hasan 😃 </h2>
-<h4 align="center"><i>Software Engineer 🌱 Ambivert</i></h4>
+<h4 align="center"><i>🌱 Ambivert</i></h4>
 <br>
 
 <p align="center">
