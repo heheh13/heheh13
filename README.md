@@ -31,9 +31,9 @@
 
 :sparkles: **Facts you might be wondering about**
 
-- 🔭 **Currently working on:** Python, Django, Bootstrap, Javascript,React
-- ⚡ **Getting better at:** Learning Web devleopment
-- 🌱 **Discovering queue:** AWS, Node.js
+- 🔭 **Currently working on:** Kubernetes,Go lang
+- ⚡ **Getting better at:** Software development , Linux
+- 🌱 **Discovering queue:** [kubernetes,golang]
 - 💬 **Ask me about:** Programming and Problem Solving, Algorithm and Data Structure
 - 📫 **How to reach me:** mehedi15-7068@diu.edu.bd
 - :purple_heart: **Personal Interest:** Programming, Sports, Astronomy, Philosophy, Psychology
